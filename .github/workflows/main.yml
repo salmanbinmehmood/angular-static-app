@@ -15,7 +15,7 @@ jobs:
       - name: install Dependencies
         run: npm install
       - name: buld angular app
-        run: run npm build
+        run: npm run build
     
         
     
